@@ -5,7 +5,7 @@ const gallery = document.querySelector('.js-menu')
 const markup = items(arr)
 gallery.innerHTML = markup
 
-
+// console.log(massade)
 
 
 
